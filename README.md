@@ -1,4 +1,4 @@
-# <h1 align="center"> Simple calculator 🔢 </h1>
+# <h1 align="center"> simple calculator 🔢 </h1>
 
 ## 💻 Project
 
