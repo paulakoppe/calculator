@@ -1,6 +1,6 @@
 # <h1 align="center"> Simple calculator 🔢 </h1>
 
-## 💻 Projeto
+## 💻 Project
 
 This project was developed with the following technologies:
 
