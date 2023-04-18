@@ -2,11 +2,11 @@
 
 ## 💻 Projeto
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
-- HTML e CSS
+- HTML and CSS
 - JavaScript
-- Git e Github
+- Git and Github
 - Figma
 
 - [access the finished project, online](https://paulakoppe.github.io/lp-credit-card/)
